@@ -1,0 +1,26 @@
+{
+  "name": "인사이트픽 - AI 금융 어드바이저",
+  "short_name": "인사이트픽",
+  "description": "AI 기반 개인 맞춤형 금융 투자 어드바이저",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0f172a",
+  "theme_color": "#3490dc",
+  "orientation": "portrait-primary",
+  "scope": "/",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/apple-touch-icon.png",
+      "sizes": "180x180",
+      "type": "image/png"
+    }
+  ],
+  "categories": ["finance", "productivity", "utilities"],
+  "lang": "ko-KR"
+} 

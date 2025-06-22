@@ -1,0 +1,6 @@
+{
+  "name": "인사이트픽 (InsightPick)",
+  "description": "사용자의 투자 목표와 위험 선호도에 기반하여 개인화된 주식 추천 및 시장 분석을 제공하는 AI 기반 금융 자문 애플리케이션입니다.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
