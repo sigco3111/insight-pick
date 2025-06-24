@@ -1,6 +1,6 @@
 
 export const APP_NAME = "인사이트픽";
-export const GEMINI_MODEL_NAME_TEXT = "gemini-2.5-flash-preview-04-17";
+export const GEMINI_MODEL_NAME_TEXT = "gemini-2.5-flash";
 export const API_REQUEST_TIMEOUT = 30000; // 30 seconds
 export const MOCK_API_DELAY = 800; // ms for mock services
 
