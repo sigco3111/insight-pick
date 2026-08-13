@@ -3,7 +3,7 @@
 
 경제 지표와 시장 동향을 분석하여 사용자가 설정한 전략에 맞는 방식으로 주식을 추천하는 웹 애플리케이션입니다. 개인 투자자(초보부터 전문가까지)가 재정 목표와 위험 허용 범위에 따라 AI가 생성한 포트폴리오 제안을 바탕으로 데이터 기반 투자 결정을 내릴 수 있도록 돕는 것을 목표로 합니다.
 
-실행 주소 : https://sigco3111.github.io/insight-pick/
+라이브 데모 : https://sigco3111.github.io/insight-pick/
 
 [![Live](https://img.shields.io/badge/Live-GitHub%20Pages-222222?style=flat-square&logo=githubpages&logoColor=white)](https://sigco3111.github.io/insight-pick/)
 
